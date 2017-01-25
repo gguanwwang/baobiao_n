@@ -2,13 +2,6 @@ asdfasdfa
 weqrerqw
 wqerqwerqwer
 qwerqwerqwe
-<<<<<<< HEAD
-
-234234
-=======
-eioqiorou
-asdfjlasf
-111111
->>>>>>> 7535a0d00efb16f51ac0fd8dcc3e8a6e3287fa7b
-
+333333333
+43252345
 v1145
